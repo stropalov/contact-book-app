@@ -1,0 +1,18 @@
+# Build output folders
+dist/
+coverage/
+out/
+
+# Dependency directory
+node_modules
+~/
+
+# Debug log from npm
+npm-debug.log
+
+# IntelliJ IDE ignore
+.idea
+
+# Visual Studio Code
+.vscode
+.history
